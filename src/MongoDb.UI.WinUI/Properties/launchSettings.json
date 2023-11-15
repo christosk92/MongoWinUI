@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "MongoDb.UI.WinUI (Package)": {
+      "commandName": "MsixPackage",
+      "nativeDebugging": false
+    },
+    "MongoDb.UI.WinUI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
